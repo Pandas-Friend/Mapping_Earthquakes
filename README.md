@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-The purpose of this project was to create a map with multiple different map options and overlays. The maps showed the  magnitude and location of earthquakes in relationn to the earths tectonic plates.
+The purpose of this project was to create a map with multiple different map options and overlays. The maps showe the  magnitude and location of earthquakes in relation to the earths tectonic plates.
 
 This first image shows a map in street view with all 3 overlays active (earthquakes, tectonic plates, and major earthquakes).
 
